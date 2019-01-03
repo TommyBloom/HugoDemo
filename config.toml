@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "3Sherpas Test Hugo"
+theme = "ananke"
